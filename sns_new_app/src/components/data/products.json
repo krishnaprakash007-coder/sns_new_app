@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "description": "This is product 1",
+    "image": "product.jpg",
+    "originalPrice": 100,
+    "discountPrice": 80,
+    "sellingPrice": 90,
+    "quantity": 10,
+    "uom": "pcs",
+    "hsn": "1234"
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "description": "This is product 2",
+    "image": "product2.jpg",
+    "originalPrice": 200,
+    "discountPrice": 150,
+    "sellingPrice": 170,
+    "quantity": 15,
+    "uom": "pcs",
+    "hsn": "5678"
+  }, {
+    "id": 3,
+    "name": "Product 3",
+    "description": "This is product 3",
+    "image": "product3.jpg",
+    "originalPrice": 600,
+    "discountPrice": 250,
+    "sellingPrice": 190,
+    "quantity": 18,
+    "uom": "pcs",
+    "hsn": "5678"
+  },
+  {
+    "id": 1,
+    "name": "Product 1",
+    "description": "This is product 1",
+    "image": "product.jpg",
+    "originalPrice": 100,
+    "discountPrice": 80,
+    "sellingPrice": 90,
+    "quantity": 10,
+    "uom": "pcs",
+    "hsn": "1234"
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "description": "This is product 2",
+    "image": "product2.jpg",
+    "originalPrice": 200,
+    "discountPrice": 150,
+    "sellingPrice": 170,
+    "quantity": 15,
+    "uom": "pcs",
+    "hsn": "5678"
+  }, {
+    "id": 3,
+    "name": "Product 3",
+    "description": "This is product 3",
+    "image": "product3.jpg",
+    "originalPrice": 600,
+    "discountPrice": 250,
+    "sellingPrice": 190,
+    "quantity": 18,
+    "uom": "pcs",
+    "hsn": "5678"
+  }
+
+
+]
